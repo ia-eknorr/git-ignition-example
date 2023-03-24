@@ -1,2 +1,5 @@
 # Ignition Resource Content
 ./resources/
+
+# MacOS DS_Store
+.DS_Store
